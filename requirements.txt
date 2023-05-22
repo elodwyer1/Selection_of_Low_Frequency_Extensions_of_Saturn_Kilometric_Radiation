@@ -1,0 +1,6 @@
+astropy==5.1
+matplotlib==3.5.2
+numpy==1.22.4
+pandas==1.4.2
+scipy==1.8.1
+TFCat==1.0.0rc2
